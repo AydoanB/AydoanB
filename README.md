@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aydoanb&label=Profile%20views&color=0e75b6&style=flat" alt="aydoanb" /> </p>
 
-- 🔭 I’m currently working on **Restaurant Software**
+- 🔭 I’m currently working on **<a href="https://github.com/AydoanB/CarAuction">CarAuction</a>**
 
 - 🌱 I’m currently learning **SQL, C# and JavaScript**
 
