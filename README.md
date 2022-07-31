@@ -5,8 +5,6 @@
 
 <a href="https://wakatime.com/@282b4541-7dc2-4359-870e-1b1b2b6bfc9b"><img src="https://wakatime.com/badge/user/282b4541-7dc2-4359-870e-1b1b2b6bfc9b.svg" alt="Total time coded since Jul 25 2022" /></a>
 
-=for html <a href="https://wakatime.com/@282b4541-7dc2-4359-870e-1b1b2b6bfc9b"><img src="https://wakatime.com/badge/user/282b4541-7dc2-4359-870e-1b1b2b6bfc9b.svg"></a>
-
 - 🔭 I’m currently working on **<a href="https://github.com/AydoanB/CarAuction">CarAuction</a>**
 
 - 🌱 I’m currently learning **SQL, C# and JavaScript**
