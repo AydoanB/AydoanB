@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [https://files.fm/balakchiev/f/hq9pa55ad](https://files.fm/balakchiev/f/hq9pa55ad)
 
+- <a href="https://wakatime.com/@282b4541-7dc2-4359-870e-1b1b2b6bfc9b"><img src="https://wakatime.com/badge/user/282b4541-7dc2-4359-870e-1b1b2b6bfc9b.svg" alt="Total time coded since Jul 25 2022" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://bg.linkedin.com/in/aydoan-balakchiev-73309b19a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aydoan-balakchiev-73309b19a/" height="30" width="40" /></a>
