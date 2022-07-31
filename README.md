@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aydoanb&label=Profile%20views&color=0e75b6&style=flat" alt="aydoanb" /> </p>
 
+<a href="https://wakatime.com/@282b4541-7dc2-4359-870e-1b1b2b6bfc9b"><img src="https://wakatime.com/badge/user/282b4541-7dc2-4359-870e-1b1b2b6bfc9b.svg" alt="Total time coded since Jul 25 2022" /></a>
+
 - 🔭 I’m currently working on **<a href="https://github.com/AydoanB/CarAuction">CarAuction</a>**
 
 - 🌱 I’m currently learning **SQL, C# and JavaScript**
@@ -13,7 +15,6 @@
 
 - 📄 Know about my experiences [https://files.fm/balakchiev/f/hq9pa55ad](https://files.fm/balakchiev/f/hq9pa55ad)
 
-- <a href="https://wakatime.com/@282b4541-7dc2-4359-870e-1b1b2b6bfc9b"><img src="https://wakatime.com/badge/user/282b4541-7dc2-4359-870e-1b1b2b6bfc9b.svg" alt="Total time coded since Jul 25 2022" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
