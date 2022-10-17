@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **balakchiev02@gmail.com**
 
-<!-- - 📄 Know about my experiences [https://files.fm/balakchiev/f/hq9pa55ad](https://files.fm/balakchiev/f/hq9pa55ad) -->
+- 📄 Know about my experiences <a href="https://files.fm/u/jwp7rmmyy#/view/cr6dhfg5k">CV</a>
 
 
 <h3 align="left">Connect with me:</h3>
