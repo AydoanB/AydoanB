@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aydoan</h1>
-<h3 align="center">.Net Developer</h3>
+<h3 align="center">.Net Developer 🧑‍💻</h3>
 
 <a href="https://wakatime.com/@282b4541-7dc2-4359-870e-1b1b2b6bfc9b"><img  src="https://wakatime.com/badge/user/282b4541-7dc2-4359-870e-1b1b2b6bfc9b.svg" alt="Total time coded since Jul 25 2022" /></a>
 
-- 🔭 I’m currently working on **various React projects**
+- 🔭 I’m currently working on **various FrontEnd projects**
 
-- 🌱 I’m currently learning **React, TypeScript**
+- 🌱 In my learning to-do list: **React, TypeScript, Angular, NodeJs**
 
 - 💬 Ask me about **Literally everything, I`m so curious**
 
