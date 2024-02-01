@@ -3,10 +3,6 @@
 
 <a href="https://wakatime.com/@282b4541-7dc2-4359-870e-1b1b2b6bfc9b"><img  src="https://wakatime.com/badge/user/282b4541-7dc2-4359-870e-1b1b2b6bfc9b.svg" alt="Total time coded since Jul 25 2022" /></a>
 
-# 💫 About Me:
-🔭 I’m currently working on various FrontEnd projects<br><br>🌱 In my learning to-do list: React, TypeScript, Angular, NodeJs<br><br>💬 Ask me about Literally everything, I`m so curious<br><br>📫 How to reach me balakchiev02@gmail.com
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aydoanb) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Blckhv) 
 
