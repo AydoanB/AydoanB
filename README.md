@@ -12,7 +12,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=AydoanB&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AydoanB&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Blckhv)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
